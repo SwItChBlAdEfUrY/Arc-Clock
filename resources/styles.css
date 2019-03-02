@@ -1,0 +1,19 @@
+.background {
+  viewport-fill: black;
+}
+
+#timeText {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: white;
+}
+
+#period {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: white;
+}

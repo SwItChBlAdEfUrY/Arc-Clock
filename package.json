@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "da465134-cabc-48b2-a37e-50f989938b75",
+    "appType": "clockface",
+    "appDisplayName": "Arc Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Arc Clock"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
