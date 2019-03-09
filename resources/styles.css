@@ -17,3 +17,34 @@
   text-anchor: middle;
   fill: white;
 }
+
+#monthText {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: white;
+}
+
+#dateText {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: white;
+}
+
+#hrDisp {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: white;
+}
+
+#heart{
+  fill:red;
+  width:30;
+  height:30;
+}
+

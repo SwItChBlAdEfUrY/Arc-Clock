@@ -5,8 +5,13 @@
   <arc id="minuteArc" fill="cyan" start-angle="0" x="0" y="0" width="290" height="290" arc-width="15" sweep-angle="180"/>
   <arc id="hourArc" fill="magenta" start-angle="0" x="0" y="0" width="250" height="250" arc-width="15" sweep-angle="90"/>
   
+  <!--<arc fill="white" start-angle="0" x="50%" y="50%" width="293" height="293" arc-width="2" sweep-angle="360"/>-->
+  
+  <image id="heart" href="stat_hr_solid_24px.png"></image>
+  
   <text id="monthText" />
   <text id="dateText" />
   <text id="timeText" />
   <text id="period" />
+  <text id="hrDisp" />
 </svg>
